@@ -44,12 +44,5 @@ All methods are compared in terms of **Entropy (Randomness)** in Ciphertext and 
 
 ---
 
-## **Required Libraries**
-
 > **Note:** The `fastecdsa` library does not work on Windows.
 
-```bash
-pip install blake3
-pip install pycryptodome
-pip install pycryptodomex
-pip install fastecdsa
