@@ -44,5 +44,23 @@ All methods are compared in terms of **Entropy (Randomness)** in Ciphertext and 
 
 ---
 
+## **NIST Test Suite Results**
+
+Hybrid Scalar Multiplication
+
+<img width="950" height="558" alt="image" src="https://github.com/user-attachments/assets/f4677994-c848-4833-949c-20c18e2a0d6c" />
+
+ECC Based Keystream Generated Using SECP224k1
+
+<img width="926" height="593" alt="image" src="https://github.com/user-attachments/assets/8c15aeba-3cd2-4ebb-a11b-699a49bfa87e" />
+
+Standard AES CTR 
+
+<img width="917" height="525" alt="image" src="https://github.com/user-attachments/assets/f3c6bb84-aee7-4503-a1d2-93ba02e566c9" />
+
+
+
+---
+
 > **Note:** The `fastecdsa` library does not work on Windows.
 
